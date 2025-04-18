@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @foreeest, an undergraduate in SYSU
-- 👀 I’m interested in Robotics and Compiling
+- 👀 I’m interested in Robotics, Computer Network and Realtime System 
 - 📫 Reach me by caishlin3@mail2.sysu.edu.cn
 
 <!---
