@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @foreeest, a PhD in SJTU, and BEng in SYSU
 - 👀 I’m interested in Robotics
-- 📫 Reach me by caishlin3@mail2.sysu.edu.cn
+- 📫 Reach me by caishenlin2022@gmail.com
 
 <!---
 foreeest/foreeest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
